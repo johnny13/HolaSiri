@@ -1,0 +1,6 @@
+framework module MenuBarController {
+  umbrella header "MenuBarController.h"
+
+  export *
+  module * { export * }
+}
